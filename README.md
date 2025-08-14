@@ -1,4 +1,5 @@
-# Quantum Programming Workshop - Summer School 2025
+# QUTE Summer School 2025
+# Quantum Programming Workshop
 
 This repository contains materials from the **Quantum Programming with Qiskit** workshop as part of the [Quantum Technologies Summer School 2025](https://www.technikum-wien.at/en/qute2025/) held at FH Technikum Wien.
 
